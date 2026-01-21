@@ -1,0 +1,11 @@
+git status (to check those file which has to be brought to the branch)
+
+git checkout -b newBranchName (to change from one branch to another brance)
+
+git add .fileName (to push only 1 file)
+git add . (to push all the file to branch)
+
+git commit -m "anything"(to commit)
+
+git push origin branchName (to push to github repo)
+
